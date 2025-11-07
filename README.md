@@ -22,5 +22,5 @@ Use Cases:
 Customers can explore different dishes before ordering.
 Restaurants or cloud kitchens can use it to display their menu online.
 
-live preview:- https://68a83079d83e6e009f9f3834--foodie-kichen.netlify.app/
+live preview:- https://foodie-kichen.netlify.app/
 
